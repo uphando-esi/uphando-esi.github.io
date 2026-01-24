@@ -276,11 +276,10 @@ pre code {
   color: darken($color, 30%);
   font-size: 18px;
 }
-/* ======= Join Section ======= background: $color; */
+/* ======= Join Section ======= background: $color; color: #fff; */
 .join {
   padding: 80px 0;
   background: #f5f5f5;
-  color: #fff;
 }
 .join .title {
   color: darken($color, 30%);
