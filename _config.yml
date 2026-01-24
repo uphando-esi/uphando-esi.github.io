@@ -4,7 +4,7 @@
 #If you see '> # Enter on the next line', be sure the next line remains indented two spaces.
 
 #REQUIRED
-org_name: Project Example
+org_name: UPHANDO EDUCATION SUPPORT INITIATIVE
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
   A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
@@ -12,11 +12,11 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
+org_general_email_inbox: uphando_leadership@googlegroups.com
 org_street_address: 1355 Market Street #Please include suite number on the line below
 org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_city: Abeokuta
+org_state: Ogun
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
   94103
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
@@ -43,11 +43,11 @@ tinyletter_username: interestingnonprofits
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
-publish: false
+publish: true
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: two
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
