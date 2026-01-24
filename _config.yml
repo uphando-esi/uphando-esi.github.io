@@ -13,18 +13,18 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 #OPTIONAL
 #Non US-address support coming soon
 org_general_email_inbox: uphando_leadership@googlegroups.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
+org_street_address: Odegbami Crescent #Please include suite number on the line below
+org_address_suite: Olorunsogo
 org_city: Abeokuta
 org_state: Ogun
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
   234
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
-
+  (234) 456-7890
+# 1B, Odegbami Crescent, Olorunsogo, Abeokuta, Ogun, Nigeria
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
+org_twitter_username: uphando-esi
+org_facebook_username: uphando-esi
 org_instagram_username:
 
 #TAX STATUS
@@ -47,7 +47,7 @@ publish: true
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: one
+color_scheme: three
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
