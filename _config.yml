@@ -6,7 +6,7 @@
 #REQUIRED
 org_name: UPHANDO EDUCATION SUPPORT INITIATIVE
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  An NGO committed to empowering youth through education, technology, skill acquisition, and healthcare empowerment.
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
   Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
 
@@ -16,7 +16,7 @@ org_general_email_inbox: uphando_leadership@googlegroups.com
 org_street_address: Odegbami Crescent #Please include suite number on the line below
 org_address_suite: Olorunsogo
 org_city: Abeokuta
-org_state: Ogun
+org_state: Ogun, Nigeria
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
   234
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
